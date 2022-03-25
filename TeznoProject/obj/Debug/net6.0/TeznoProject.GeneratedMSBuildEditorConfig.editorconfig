@@ -1,0 +1,128 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TeznoProject
+build_property.RootNamespace = TeznoProject
+build_property.ProjectDir = C:\Users\user\Desktop\Projects\C#\TeznoProject\TeznoProject\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Projects\C#\TeznoProject\TeznoProject
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xEYXNoYm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/News/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xOZXdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/News/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xOZXdzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/News/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xOZXdzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/News/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xOZXdzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xOZXdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/Offers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xPZmZlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/Offers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xPZmZlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/Offers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xPZmZlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/Offers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xPZmZlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/Offers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xPZmZlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/Sliders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xTbGlkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/Sliders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xTbGlkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/Sliders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xTbGlkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/Sliders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xTbGlkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/Sliders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xTbGlkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Areas/TenzoAdmin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVGVuem9BZG1pblxWaWV3c1xTaGFyZWRcX0xheW91dEFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-bq7tpip92x
+
+[C:/Users/user/Desktop/Projects/C\#/TeznoProject/TeznoProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9hyrg0ka1x
